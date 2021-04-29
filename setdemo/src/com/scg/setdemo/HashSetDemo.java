@@ -6,6 +6,7 @@ public class HashSetDemo {
 		 //Creating HashSet and adding elements  
 	    HashSet<String> set=new HashSet(); 
 	          int a=10;
+	          int b=10;
 	           set.add("One");    
 	           set.add("Two");    
 	           set.add("Three");   
